@@ -1,0 +1,5 @@
+{
+  "routes": [
+    { "src": "/img/(.*)", "dest": "/api/img/$1" }
+  ]
+}
