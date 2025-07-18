@@ -1,5 +1,5 @@
 const sharp = require('sharp');
-const cm2js = require('../cm2js.js');
+const cm2js = require('../../cm2js.js');
 const fetch = require('node-fetch');
 
 const MAX_BLOCKS = 10000;
